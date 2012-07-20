@@ -32,4 +32,4 @@ function make_password($list, $symbols)
 	}
 
 make_password($list, $symbols);
-// Testacular
+// Testacular!
